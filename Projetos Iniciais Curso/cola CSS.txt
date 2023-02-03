@@ -1,0 +1,14 @@
+Curso Udemy programação: 
+
+>	"External style sheet"
+	"Internal style sheet" - 
+	"Inline style" - Adiciona um estilo na linha de código
+
+>	"color" + uma cor em inglês, coloca o texto na cor
+
+>	"text/css" 
+
+>	" { } " utilizado como seletor, para selecionar determinados estilos ou palavras iguais dentro de uma mesma página de código
+	EX: p{color:red;}
+
+

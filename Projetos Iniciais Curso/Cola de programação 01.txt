@@ -1,0 +1,178 @@
+Programação:
+
+Save funções de comando:
+
+>	"<" Uitlizado para abrir a função
+>	">" Utilizado para fechar a função
+
+> 	"/" Utilizado para fechar o comando
+	(Para se iniciar a função, se escreve "<" + função + ">" e após utilizar você tem, que fechar com "<" + "/" + função + ">"
+	(Exemplo: " <head> Site Exemplo </head> ")
+
+>	"<!doctype>" Identifica o tipo de arquivo
+	"<!doctype html> Identifica como site ("doctype" + "html")
+
+>	"<html>" Inicia o que estará no site, também colocado no fim do mesmo
+
+>	"<head>" Cabeçalho do site.
+
+> 	"<meta charset="utf-8"> Ajusta para que o site fique com os acentos colocados de maneira correta
+
+>	"<title> O que irá aparecer na aba da guia no navegador, nome do site
+
+>	"<body>" Função para iniar a escrever o copro do site
+
+> 	"<h1>" Cria uma letra de título. A função vai do "<h1>" até o "<h6>" diminuindo de tamanho (<h1> o maior)
+
+>	"<hr>" Cria uma linha horizontal na página
+
+>	"<p>" Cria um parágrafo
+
+>	"<br>	= "Break" Quebra de linha
+
+>	"<strong>" ou "<b>" Deixar em negrito
+	"<em>" Deixar em itálico
+	"<u>" Deixar em underline
+	"<strike>" Deixar uma linha no meio das palavras
+
+>	"<!-- -->" Cria um comentário não exibido na página, apenas no código fonte
+
+>	"<ul>" Criar uma lista não ordenada
+	Utilizando "<ul>" + "type" você pode dar diferentes estilos ao marcador da lista
+	(Ex: <ul type="circle"> , <ul type="square"> , <ul type="disc">)
+	"<li>" colocado antes de cada um dos itens a lista
+	
+>	"<ol>" Cria uma lista ordenada. Funciona como o "<ul>"
+	O "type" da "<ol>" é diferente: Ex: <ol type="1"> , <ol type="a"> , <ol type="A"> ,<ol type="I">
+
+> 	"<img>" Adiciona imagem
+	"src=" Procura o local onde a imagem está, pode ser por link
+	Ex: "<img src="imagem/teste.jpg"" abre a imagem nomeada de teste, na pasta imagem
+	
+>	"width=" redimensiona largura da imagem em pixels ou porcentagem do navegador e também tamanho de tabelas em pixels ou porcentagem do navegador
+	Ex:"<img src="imagem/teste.jpg" width="200"" redimensiona a imagem em 200 pixels de largura
+	"height=" redimensiona altura da imagem em pixels ou porcentagem do navegador e também tamanho de tabelas em pixels ou porcentagem do navegador
+	Ex:"<img src="imagem/teste.jpg" height="200"" redimensiona a imagem em 200 pixels de altura
+
+	(Obs: "height" e "width" podem ser utilizados juntos, se utilizado apenas um, fica proporcional a foto originl.
+
+>	 "index.html" nome do arquivo que será carregado como a página principal do site
+
+>	"<a>" Âncora, permite criar um ponto de fixassão, um clique, como um hiperlink para navegação entre páginas ou menus
+	"href=" Função para colocar o endereço do hiperlink que será direcionado (href= hiperlink reference)
+	Ex: "<a href="link.html">" Te leva para o link destinado
+ 
+> 	"<table>" Cria tabelas
+	"<tr>" Table Row - Cria as linhas da tabela
+	"<th>" Table Header - Cria um cabeçalho da tabela, em negrito e no meio do quadro
+	"<td>" Table data - Cria os dados da tabela, as células
+	"colspan" Extende uma coluna - Ex: "<td colspan="2"> teste1 </td>" Define que duas células irão ocupar um espaço com o nome de "teste1"
+	"rowspan" Extende uma linha - funciona como o colspan
+
+	
+>	"<form>" Cria um formulário
+	"<input>" Cria um espaço para comando - Ex: "<input type="text">" cria uma caixa de texto
+	"text" cria dentro do Input uma caixa de texto (utilizado para fazer longin)
+	"password" utilizado para fazer senha	
+	"button" cria um botão
+	"submit" cria um botão para enviar um formulário
+	"radio" cria uma opção clicavel redonda
+	"checkbox" cria uma opção clicavel quadrada
+
+>	"<select>" Cria uma lista de opções para várias possibilidades
+
+>	"value" mostra o nome do objeto, por exemplo, botão
+	"name" nomeia, mas deixa escondido para o usuário esta informação
+
+> 	"<textarea>" Cria uma caixa de texto
+
+>	"center" Utilizado para deixar as camadas centralizadas
+	Ex:"<table border="1" width="900" align="center">" irá criar uma tabela, com 1 linha, 900px de tamanho que sempre ficará centralizada na página
+
+>	"<background>" Coloca algo no fundo da página.
+	Ex: "<body background="imagens/teste.png">" adiciona uma imagem no fundo do local selecionado, como no caso foi o body do site, adiciona a ele por completo.
+
+>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
